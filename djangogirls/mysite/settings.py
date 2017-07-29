@@ -25,7 +25,7 @@ SECRET_KEY = '5zk49i32%w6pwtj3=x$jri3-n6u5ctmyfx8a0+h^jn9+c3g_c)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', "jupiter.pythonanywhere.com."]
+ALLOWED_HOSTS = ['127.0.0.1', "jupiter.pythonanywhere.com"]
 
 
 # Application definition
